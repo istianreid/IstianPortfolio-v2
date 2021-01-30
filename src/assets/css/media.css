@@ -1,0 +1,119 @@
+@media (max-width: 1160px) {
+  .title {
+    font-size: 130px;
+  }
+  .image-container img {
+    min-height: 150px;
+  }
+}
+
+@media (max-width: 1130px) {
+  #social-links {
+    padding: 45px 30px 0 30px;
+  }
+
+  #emailadd {
+    padding: 45px 30px 0 30px;
+  }
+
+  #top {
+    padding: 35px 30px;
+  }
+  .image-container img {
+    min-height: 150px;
+  }
+}
+
+@media (max-width: 1110px) and (min-width: 992px) {
+  #social-links,
+  #emailadd {
+    display: none;
+  }
+  .image-container img {
+    min-height: 150px;
+  }
+}
+
+@media (max-width: 1045px) {
+  .title {
+    font-size: 100px;
+  }
+}
+
+@media (max-width: 992px) {
+  #top ul li {
+    font-size: 15px;
+  }
+
+  .title {
+    font-size: 100px;
+  }
+
+  #hero {
+    height: auto;
+    margin-top: 65px;
+  }
+}
+
+@media (max-width: 880px) {
+  #social-links,
+  #emailadd {
+    display: none;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+}
+
+@media (max-width: 767px) {
+  #hero h1 {
+    font-size: 38px;
+  }
+
+  #hero h2 {
+    font-size: 17px;
+  }
+
+  #hero p {
+    font-size: 16px;
+  }
+
+  .image-container {
+    height: auto;
+  }
+
+  #about {
+    height: 100%;
+  }
+}
+
+@media (max-width: 580px) {
+  #hero,
+  #about,
+  #work,
+  #contact {
+    padding: 0 20px;
+    margin-bottom: 80px;
+  }
+
+  #hero h1 {
+    font-size: 32px;
+  }
+
+  #hero h2 {
+    font-size: 16px;
+  }
+
+  #top p.logo {
+    font-size: 17px;
+  }
+
+  #top ul li {
+    font-size: 14px;
+  }
+
+  .title {
+    font-size: 90px;
+  }
+}
