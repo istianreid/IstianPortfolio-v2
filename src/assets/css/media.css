@@ -116,4 +116,8 @@
   .title {
     font-size: 90px;
   }
+
+  #contact a.email {
+    font-size: 30px;
+  }
 }
