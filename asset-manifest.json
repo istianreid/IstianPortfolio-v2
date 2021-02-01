@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.31301940.chunk.css",
-    "main.js": "/static/js/main.0286d633.chunk.js",
-    "main.js.map": "/static/js/main.0286d633.chunk.js.map",
+    "main.js": "/static/js/main.ed14677f.chunk.js",
+    "main.js.map": "/static/js/main.ed14677f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.20fa0397.js",
     "runtime-main.js.map": "/static/js/runtime-main.20fa0397.js.map",
     "static/js/2.8aa7e563.chunk.js": "/static/js/2.8aa7e563.chunk.js",
@@ -22,7 +22,7 @@
     "static/media/Daisy-Ann-.co.f8cb5b61.svg": "/static/media/Daisy-Ann-.co.f8cb5b61.svg",
     "static/media/Express.eff40449.svg": "/static/media/Express.eff40449.svg",
     "static/media/HTML.d52711fa.svg": "/static/media/HTML.d52711fa.svg",
-    "static/media/Hey-foodies.63f5954f.svg": "/static/media/Hey-foodies.63f5954f.svg",
+    "static/media/Heyfoodies.b3f65841.PNG": "/static/media/Heyfoodies.b3f65841.PNG",
     "static/media/JS.4ecffbe9.svg": "/static/media/JS.4ecffbe9.svg",
     "static/media/LabAtHome.5e545f1c.PNG": "/static/media/LabAtHome.5e545f1c.PNG",
     "static/media/Loving-child-care.0b93cbaa.PNG": "/static/media/Loving-child-care.0b93cbaa.PNG",
@@ -51,6 +51,6 @@
     "static/js/runtime-main.20fa0397.js",
     "static/js/2.8aa7e563.chunk.js",
     "static/css/main.31301940.chunk.css",
-    "static/js/main.0286d633.chunk.js"
+    "static/js/main.ed14677f.chunk.js"
   ]
 }
