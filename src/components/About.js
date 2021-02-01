@@ -50,9 +50,9 @@ const About = () => {
                     </Col>
                     <Col xs={12} sm={12} md={10} lg={7} xl={7} className="about-text">
                         <div>
-                            <h3 className="">Hi , my name is</h3>
-                            <h2 className="">Christopher  <span className="color-white">"istian"</span>  Reid</h2>
-                            <p className="">A career-shifter who creates beautiful and functional websites that are both modern and user-friendly. I'm a full stack developer who loves working with various frameworks such as HTML, CSS, Bootstrap, ReactJS and more.</p>
+                            <h3>Hi , my name is</h3>
+                            <h2>Christopher  <span className="color-white">"istian"</span>  Reid</h2>
+                            <p>A career-shifter who creates beautiful and functional websites that are both modern and user-friendly. I'm a full stack developer who loves working with various frameworks such as HTML, CSS, Bootstrap, ReactJS and more.</p>
                             <div>
                                 <ul>
                                     <li><img src={htmlIcon} alt="html"/></li>
