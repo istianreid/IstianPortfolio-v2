@@ -13,7 +13,7 @@ class Contact extends Component {
                         <Row >
                             <Col xs={12} sm={6} xl={6}>
                                 <p className="sub">Start a conversation</p>
-                                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=istianreid@gmail.com" target="_blank" className="email">istianreid@gmail.com</a>
+                                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=istianreid@gmail.com" target="_blank" rel="noreferrer" className="email">istianreid@gmail.com</a>
                                 <p className="text">If you are interested in a new project, collaboration, or a reason to get a beer don't hesitate to shoot me an email.</p>
 
                                 <div className="resume">

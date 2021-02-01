@@ -13,7 +13,7 @@ const Hero = () => {
                         <p>
                             A career-shifter who creates beautiful and functional websites that are both modern and user-friendly. I'm a full stack developer based in Taguig City, Philippines.
                         </p>
-                        <a className="link-btn" href="#">
+                        <a className="link-btn" href="https://mail.google.com/mail/?view=cm&fs=1&to=istianreid@gmail.com" target="_blank" rel="noreferrer">
                             Get in Touch
                         </a>
                     </Col>

@@ -5,13 +5,13 @@ const Nav = () => {
         <nav id="top">
             <p className="logo">{`<Istian />`}</p>
             <ul>
-                <a href="#">
+                <a href="#about">
                     <li>About</li>
                 </a>
-                <a href="#">
+                <a href="#work">
                     <li>Works</li>
                 </a>
-                <a href="#">
+                <a href="#contact">
                     <li>Contact</li>
                 </a>
             </ul>

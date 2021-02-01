@@ -14,7 +14,7 @@ import Daisy from '../assets/images/works/Daisy-Ann-.co.svg'
 import CEMS from '../assets/images/works/CEMS.PNG'
 import CQuest from '../assets/images/works/Creative-Quest.PNG'
 import Crud from '../assets/images/works/CRUD-app.PNG'
-import HeyFoodies from '../assets/images/works/Hey-foodies.svg'
+import HeyFoodies from '../assets/images/works/Heyfoodies.PNG'
 import SteelKiwi from '../assets/images/works/SteelKiwi.PNG'
 import Visla from '../assets/images/works/Visla.PNG'
 import ChildCare from '../assets/images/works/Loving-child-care.PNG'
@@ -83,15 +83,15 @@ const Work = () => {
                             badge1="Wix"
                         />
                         <Card 
-                            title="Daisy Ann" 
-                            projectLink=""
-                            worksImg={ Daisy }
+                        title="Hey Foodies" 
+                        projectLink=""
+                        worksImg={ HeyFoodies }
 
-                            website={ Website }
-                            linkWebsite="daisyco.istian.tech"
-                            altWebsite="Website"
+                        website={ Website }
+                        linkWebsite="http://foodies-istian-tech.stackstaging.com/"
+                        altWebsite="Website"
 
-                            badge1="Wordpress"
+                        badge1="Wordpress"
                         />
                         <Card 
                             title="CEMS Redesigned" 
@@ -146,12 +146,12 @@ const Work = () => {
                             badge3="Javascript"
                         />
                         <Card 
-                            title="Hey Foodies" 
+                            title="Daisy Ann" 
                             projectLink=""
-                            worksImg={ HeyFoodies }
+                            worksImg={ Daisy }
 
                             website={ Website }
-                            linkWebsite="#"
+                            linkWebsite="daisyco.istian.tech"
                             altWebsite="Website"
 
                             badge1="Wordpress"
