@@ -13,10 +13,10 @@ const Hero = () => {
                     <Col className="info" xs={12} sm={12} md={6} lg={6} xl={6}>
                         <h1>Christopher Reid</h1>
                         <GlitchClip>
-                            <h2>I build functional websites.</h2>
+                            <h2>Build functional websites.</h2>
                         </GlitchClip>
                         <p>
-                            A career-shifter who creates beautiful and functional websites that are both modern and user-friendly. I'm a full stack developer based in Taguig City, Philippines.
+                            I create beautiful and functional websites that are both modern and user-friendly. I'm a Web developer based in Taguig City, Philippines.
                         </p>
                         <a className="link-btn" href="https://mail.google.com/mail/?view=cm&fs=1&to=istianreid@gmail.com" target="_blank" rel="noreferrer">
                             Get in Touch

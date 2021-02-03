@@ -52,7 +52,7 @@ const About = () => {
                         <div>
                             <h3>Hi , my name is</h3>
                             <h2>Christopher  <span className="color-white">"istian"</span>  Reid</h2>
-                            <p>A career-shifter who creates beautiful and functional websites that are both modern and user-friendly. I'm a full stack developer who loves working with various frameworks such as HTML, CSS, Bootstrap, ReactJS and more.</p>
+                            <p>I'm a career-shifter who studied online at <span className="kodigo">Kodigo Code Camp</span>  to be a full stacl web developer. I love working with various technologies such as HTML, CSS, Javascript, Bootstrap, ReactJS, and more.</p>
                             <div>
                                 <ul>
                                     <li><img src={htmlIcon} alt="html"/></li>

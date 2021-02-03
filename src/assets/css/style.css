@@ -302,6 +302,13 @@ body {
   align-content: center;
 }
 
+.kodigo {
+  color: #07cff6;
+  font-family: "Code Squared";
+  font-size: 11px;
+  text-decoration: none;
+}
+
 .about h3 {
   font-family: "Code Squared";
   padding: 10px 0px 5px 0px;
