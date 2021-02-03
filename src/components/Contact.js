@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Container, Row, Col } from 'react-bootstrap'
+import PDF from '../assets/Documents/Istian-Resume.pdf'
 
 class Contact extends Component {
     render() {
@@ -19,7 +20,7 @@ class Contact extends Component {
                                 <div className="resume">
                                     <p>Want to hire me? Here’s my resume. <br/> 
                                     Click on the button below.</p>
-                                    <a className="link-btn" href="#">
+                                    <a className="link-btn" href={ PDF } target="_blank">
                                         Download Resume
                                     </a>
                                 </div>

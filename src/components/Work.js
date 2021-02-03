@@ -62,11 +62,11 @@ const Work = () => {
                             altFigma="Figma"
 
                             git={ Git }
-                            linkGit="#"
+                            linkGit="https://github.com/istianreid/BloodMatch-Client"
                             altGit="Github"
 
                             website={ Website }
-                            linkWebsite="#"
+                            linkWebsite="https://bloodmatchclient.herokuapp.com/"
                             altWebsite="Website"
 
                             badge1="MERN Stack"
