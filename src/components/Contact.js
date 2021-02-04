@@ -20,7 +20,7 @@ class Contact extends Component {
                                 <div className="resume">
                                     <p>Want to hire me? Here’s my resume. <br/> 
                                     Click on the button below.</p>
-                                    <a className="link-btn" href={ PDF } target="_blank">
+                                    <a className="link-btn" href={ PDF } target="_blank" rel="noreferrer">
                                         Download Resume
                                     </a>
                                 </div>

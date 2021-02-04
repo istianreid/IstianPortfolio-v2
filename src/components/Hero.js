@@ -1,7 +1,7 @@
 import React from 'react'
 import GlitchClip from 'react-glitch-effect/core/Clip';
 import { Container, Row, Col } from 'react-bootstrap'
-import HeroImg from '../assets/images/cover-photo.png'
+import IstianCover from '../assets/images/pictures/IstianCover.png'
 
 const Hero = () => {
 
@@ -23,7 +23,7 @@ const Hero = () => {
                         </a>
                     </Col>
                     <Col className="img" xs={12} sm={12} md={6} lg={6} xl={6}>
-                            <img src={ HeroImg } alt="Christopher Reid" />
+                            <img src={ IstianCover } alt="Christopher Reid" />
                     </Col>
                 </Row>
             </Container>

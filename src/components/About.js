@@ -16,7 +16,11 @@ import wordpressIcon from '../assets/images/tech/Wordpress.svg'
 import wixIcon from '../assets/images/tech/Wix.svg'
 
 //image
-import Profile from '../assets/images/plain-photo.png'
+
+import IstianVector from '../assets/images/pictures/IstianVector.jpg'
+import IstianProfile from '../assets/images/pictures/IstainProfile.jpg'
+
+
 
 //distortion image
 import distortion from '../assets/effects/Distortion/6.jpg'
@@ -30,8 +34,8 @@ const About = () => {
         new hoverEffect({
           parent: container.current,
           intensity: 0.3,
-          image1: Profile,
-          image2: Profile,
+          image1: IstianProfile,
+          image2: IstianVector,
           displacementImage: distortion
         });
 
@@ -52,7 +56,7 @@ const About = () => {
                         <div>
                             <h3>Hi , my name is</h3>
                             <h2>Christopher  <span className="color-white">"istian"</span>  Reid</h2>
-                            <p>I'm a career-shifter who studied online at <span className="kodigo">Kodigo Code Camp</span>  to be a full stacl web developer. I love working with various technologies such as HTML, CSS, Javascript, Bootstrap, ReactJS, and more.</p>
+                            <p>I'm a career-shifter, studied online at <span className="kodigo">Kodigo Code Camp</span>  to be a full-Stack web developer. I love working with various technologies such as HTML, CSS, Javascript, Bootstrap, ReactJS, and more. I don’t have enough professional experience to be certain about such things. However, I know that I can provide a fresh take and an extraordinary approach to every project.</p>
                             <div>
                                 <ul>
                                     <li><img src={htmlIcon} alt="html"/></li>

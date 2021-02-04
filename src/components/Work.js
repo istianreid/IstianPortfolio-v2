@@ -2,10 +2,9 @@ import React, {useState} from 'react'
 import Card from '../components/Card'
 import { Container, Row } from 'react-bootstrap'
 
-import Figma from '../assets/images/figma.svg'
-import Git from '../assets/images/github.svg'
-import Website from '../assets/images/website.svg'
-import Placeholder from '../assets/images/placeholder-image.jpg'
+import Figma from '../assets/images/card/figma.svg'
+import Git from '../assets/images/card/github.svg'
+import Website from '../assets/images/card/website.svg'
 
 import PorfolioV1 from '../assets/images/works/Porfolio-V1.PNG'
 import BloodMatch from '../assets/images/works/BloodMatch.PNG'
@@ -58,7 +57,7 @@ const Work = () => {
                             worksImg={ BloodMatch }
 
                             figma={Figma}
-                            linkFigma="https://www.figma.com/file/VUIBojLvyCp4j3wMcPlCzU/Blood-Match?node-id=0%3A1"
+                            linkFigma="https://www.figma.com/file/ugu1KDS6OuXyOSR4ty0FNQ/Blood-Match?node-id=0%3A1"
                             altFigma="Figma"
 
                             git={ Git }
